@@ -1,6 +1,6 @@
 
 ![alt text](https://www.ucs.br/site/midia/arquivos/Logo_UCS_Horizontal_PNG_2.png)
-
+<img src=”https://www.ucs.br/site/midia/arquivos/Logo_UCS_Horizontal_PNG_2.png”>
 
 
 
