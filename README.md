@@ -4,5 +4,6 @@
 
 Nossos e-mails são:<br>
 📫  mrwolff@ucs.br
+📫  cdmoraes@ucs.br
 
 
