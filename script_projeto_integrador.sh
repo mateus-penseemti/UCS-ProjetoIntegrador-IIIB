@@ -20,6 +20,7 @@ if [ "$1" = "-d" ]
 				\"avatar_url\": \"https://image.flaticon.com/icons/png/512/22/22990.png\",
 				\"content\": \"Mensagem do Usuário:\n$2 \" }"  https://discordapp.com/api/webhooks/717812559771598898/WNV1JFok9GoAeou3KlBzowIWhV7EDUvU8ZiKwimFzegz-jIF9dvY2bgtfNpShle0M83u
 				fi
+			fi
 		else
 			#testa o argumento na posição 1 se for digitado -p
 			if [ "$1" = "-p" ]
