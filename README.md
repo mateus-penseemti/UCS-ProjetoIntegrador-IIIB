@@ -1,4 +1,4 @@
-![alt text](https://www.ucs.br/site/midia/arquivos/Logo_UCS_Horizontal_PNG_2.png)
+![alt text](https://www.ucs.br/site/midia/arquivos/Logo_UCS_Horizontal_PNG.png)
 
 ❕ Este é repositório onde eu criamos o script para o projeto integradore III-B do curso redes de computadores da UCS.
 
